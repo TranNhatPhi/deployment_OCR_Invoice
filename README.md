@@ -24,7 +24,7 @@ This is a **Flask-based application** for processing invoices using **OCR (Optic
 4. **NLP Engine (GPT-3.5 Turbo / spaCy)**: Enhances text recognition and corrects errors.
 5. **Database (MySQL + Redis)**: Stores and retrieves invoice data efficiently.
 6. **API Gateway**: Manages secure API communication between services.
-7. **Deployment (Docker & Kubernetes)**: Enables scalable, cloud-native deployment.
+7. **Deployment Docker**: Enables scalable, cloud-native deployment.
 
 ## Installation
 ### Prerequisites
