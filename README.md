@@ -104,7 +104,7 @@ docker-compose up --build
 ![Invoice Archive System](ImageSystem/2.png)
 
 ## Contributors
-- **Your Name** – Developer & AI Engineer
+- **Trần Nhật Phi** – Developer & AI Engineer
 
 ## License
 This project is licensed under the MIT License.
