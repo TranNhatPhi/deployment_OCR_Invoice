@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ### Install Frontend Dependencies
 ```bash
-cd frontend
+cd my-app
 npm install
 ```
 
@@ -63,17 +63,23 @@ GPT_API_KEY=your_openai_api_key
 ```
 
 ### Start the Application
-#### Run Backend (Flask + Spring Boot)
+#### Run Backend (Flask python)
 ```bash
-cd backend
+cd pythonProjectOCR8
 python app.py  # Runs Flask OCR Service
-cd ../spring-boot-api
-mvn spring-boot:run  # Runs Java API
 ```
+
+### Start the Application
+#### Run Backend ( Spring Boot)
+```bash
+cd myapp
+run app   # Runs API gateway spring boot
+```
+
 
 #### Run Frontend (Angular 17)
 ```bash
-cd frontend
+cd my-app
 ng serve --open
 ```
 
